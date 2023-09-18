@@ -1,0 +1,8 @@
+### This article talks about what version control is [*VersionControl*][1].
+### This article discusses git and its distinguished features compared with other VCS [*GIT*][2].
+### This article discusses branches and why they are important [*Branches*][3]
+
+
+[1]:https://www.atlassian.com/git/tutorials/what-is-version-control
+[2]:https://www.atlassian.com/git/tutorials/what-is-git
+[3]:https://www.atlassian.com/git/tutorials/using-branches
